@@ -6,7 +6,7 @@
   "require": {
     "php": "^8.5",
     "survos/document-processing": "^2.43",
-    "survos/kit-bundle": "^2.43",
+    "survos/kit-bundle": "^2.41.9",
     "symfony/framework-bundle": "^8.1"
   },
   "autoload": {

@@ -1,5 +1,7 @@
 # Survos Document Processing Bundle
 
+Install with `composer require survos/document-processing-bundle`.
+
 Thin Symfony configuration for `survos/document-processing`. Requires the Kit bundle. Register `Survos\Kit\SurvosKitBundle` and `Survos\DocumentProcessingBundle\SurvosDocumentProcessingBundle` (Flex discovery marker included).
 
 ```yaml
